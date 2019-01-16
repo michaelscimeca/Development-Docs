@@ -13,7 +13,7 @@ Example `Advanced Custom Fields PRO - 5.7.9`
 #### 4# Backup Wordpress on [Flywheel](https://app.getflywheel.com/)
 Login to Flywheel and Backup before you update plugins or/and WP core on production
 
-#### 5# Leave slack message.
+#### 5# Leave slack message
 ##### Example
 Updates
 Core 5.0.3
