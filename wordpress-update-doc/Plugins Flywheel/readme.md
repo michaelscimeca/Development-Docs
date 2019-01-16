@@ -10,7 +10,7 @@ Go into the plugins WP page and click view change logs for each plugin.
 After each plugin update make a commit message.
 Example `Advanced Custom Fields PRO - 5.7.9`
 
-### 4# Backup Wordpress on [Flywheel](https://app.getflywheel.com/)
+#### 4# Backup Wordpress on [Flywheel](https://app.getflywheel.com/)
 Login to Flywheel and Backup before you update plugins or/and WP core on production
 
 ### 5# Leave slack message.
