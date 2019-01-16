@@ -1,9 +1,9 @@
 ## Updating Wordpress with Flywheel
 
-#### 1# Back up local database.
+#### 1# Back up local database
 Go to wp-config and grab database info and open up Squeal Pro and find database and export and save in a safe place.
 
-#### 2# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts.
+#### 2# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts
 Go into the plugins WP page and click view change logs for each plugin.
 
 #### 3# Update each plugins locally
