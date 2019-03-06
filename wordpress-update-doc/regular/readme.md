@@ -9,8 +9,8 @@ Go to wp-config and grab database info and open up Squeal Pro and find database 
 #### 2# Back up Plugins via FTP
 RPF has FTP
 
-#### 3# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts. Make note of what version you are updating from and too also make sure you are commiting after every plugin update.
-Go into the plugins WP page and click view change logs for each plugin.
+#### 3# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts. 
+Go into the plugins WP page and click view change logs for each plugin once confirmed no conflicts make update and then make a commit to version from to. I.E. 9.5 - Yoast SEO 9.7
 
 #### 4# Update each plugins locally
 After each plugin update make a commit message.
