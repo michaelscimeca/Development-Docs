@@ -9,7 +9,7 @@ Go to wp-config and grab database info and open up Squeal Pro and find database 
 #### 2# Back up Plugins via FTP
 RPF has FTP
 
-#### 3# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts
+#### 3# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts. Make note of what version you are updating from and too.
 Go into the plugins WP page and click view change logs for each plugin.
 
 #### 4# Update each plugins locally
