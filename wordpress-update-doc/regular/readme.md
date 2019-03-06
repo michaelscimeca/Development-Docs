@@ -16,7 +16,9 @@ Go into the plugins WP page and click view change logs for each plugin once conf
 After each plugin update make a commit message.
 Example `Advanced Custom Fields PRO - 5.7.9`
 
-#### 5# Leave slack message
+#### 5# Update production plugins
+
+#### 6# Leave slack message
 ##### Example
 Updates
 Core 5.0.3
