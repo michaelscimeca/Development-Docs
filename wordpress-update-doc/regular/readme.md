@@ -1,7 +1,7 @@
 ## Updating Wordpress
 
 Project that follow these steps
-RPF
+- RPF
 
 #### 1# Back up Local & Production database
 Go to wp-config and grab database info and open up Squeal Pro and find database and export and save in a safe place.
