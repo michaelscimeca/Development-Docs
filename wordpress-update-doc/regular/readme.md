@@ -7,7 +7,7 @@ Project that follow these steps
 Go to wp-config and grab database info and open up Squeal Pro and find database and export and save in a safe place.
 
 #### 2# Back up Plugins via FTP
-Drag plugins into RFP folder thats dated for this update
+Drag plugins into RFP folder thats dated for this update.
 RPF has FTP
 
 #### 3# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts. 
