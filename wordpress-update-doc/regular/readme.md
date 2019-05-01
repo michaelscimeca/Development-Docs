@@ -15,16 +15,16 @@ Go to 1&1 phpmyadmin click wordpress database and then export.
 Drag plugins into RFP folder thats dated for this update.
 RPF has FTP
 
-#### 3# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts. 
+#### 4# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts. 
 Go into the plugins WP page and click view change logs for each plugin once confirmed no conflicts make update and then make a commit to version from to. I.E. Yoast SEO 9.5 - Yoast SEO 9.7
 
-#### 4# Update each plugins locally
+#### 5# Update each plugins locally
 After each plugin update make a commit message.
 Example `Advanced Custom Fields PRO - 5.7.9`
 
-#### 5# Update production plugins
+#### 6# Update production plugins
 
-#### 6# Leave slack message
+#### 7# Leave slack message
 
 ##### Example
 Updates
