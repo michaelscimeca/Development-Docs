@@ -11,25 +11,21 @@ Go to wp-config and grab database info and open up Squeal Pro and find database 
 #### 2# Go to 101.com and export database go to hosting.
 Go to 1&1 phpmyadmin click wordpress database and then export.
 
-
 #### 3# Back up Plugins via FTP
 Drag plugins into RFP folder thats dated for this update.
 RPF has FTP
 
-#### 4# Grab plugins from FTP in the www folder
-
-#### 5# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts. 
+#### 3# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts. 
 Go into the plugins WP page and click view change logs for each plugin once confirmed no conflicts make update and then make a commit to version from to. I.E. 9.5 - Yoast SEO 9.7
 
-
-#### 6# Update each plugins locally
+#### 4# Update each plugins locally
 After each plugin update make a commit message.
 Example `Advanced Custom Fields PRO - 5.7.9`
 
+#### 5# Update production plugins
 
-#### 7# Update production plugins
+#### 6# Leave slack message
 
-#### 8# Leave slack message
 ##### Example
 Updates
 Core 5.0.3
