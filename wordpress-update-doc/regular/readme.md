@@ -16,7 +16,7 @@ Drag plugins into RFP folder thats dated for this update.
 RPF has FTP
 
 #### 3# Check if plugins are supported by the current WP Core and change logs don't raise any conflicts. 
-Go into the plugins WP page and click view change logs for each plugin once confirmed no conflicts make update and then make a commit to version from to. I.E. 9.5 - Yoast SEO 9.7
+Go into the plugins WP page and click view change logs for each plugin once confirmed no conflicts make update and then make a commit to version from to. I.E. Yoast SEO 9.5 - Yoast SEO 9.7
 
 #### 4# Update each plugins locally
 After each plugin update make a commit message.
