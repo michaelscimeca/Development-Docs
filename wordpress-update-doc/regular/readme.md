@@ -4,6 +4,7 @@ Project that follow these steps
 - RPF https://www.righteouspersons.org/
 
 Go to RPF folder run docker-compose up and go into theme folder and run gulp
+#### 0# Pull  
 
 #### 1# Back up Local & Production database
 Go to wp-config and grab database info and open up Squeal Pro and find database and export and save in a safe place.
