@@ -12,7 +12,7 @@ Go to wp-config and grab database info and open up Squeal Pro and find database 
 #### 2# Go to 101.com and export database go to hosting.
 Go to 1&1 phpmyadmin click wordpress database and then export.
 
-#### 3# Back up Plugins via FTP
+#### 3# Back up everything on the FTP
 Drag plugins into RFP folder thats dated for this update.
 RPF has FTP
 
