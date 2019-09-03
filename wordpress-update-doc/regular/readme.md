@@ -9,7 +9,7 @@ Go to RPF folder run docker-compose up and go into theme folder and run gulp
 #### 1# Back up Local & Production database
 Go to wp-config and grab database info and open up Squeal Pro and find database and export and save in a safe place.
 
-#### 2# Go to 101.com and export database go to hosting.
+#### 2# Go to 1&1.com and export database go to hosting.
 Go to 1&1 phpmyadmin click wordpress database and then export.
 
 #### 3# Back up everything on the FTP
